@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭.NET Programmer<br>👯Experienced in WPF & ASP.NET applications<br>🤝R scripts from time to time (computing/predicting)<br>⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡<br>
+🔭.NET Programmer<br>👯Experienced in WPF & ASP.NET & IoT applications<br>🤝R scripts from time to time (computing/predicting)<br>⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡<br>
 
 
 # 💻 Tech Stack:
